@@ -1,5 +1,6 @@
 #include "monty.h"
 
+
 /**
 * f_push - function that adds node to the stack
 * @head: double head pointer to the stack
